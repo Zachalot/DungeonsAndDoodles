@@ -256,7 +256,7 @@ export class TitleScreen {
     }[this.view]();
     this.element.innerHTML = `
       <div class="title-inner">
-        <h1>Dungeon Crawler</h1>
+        <h1>DungeonsAndDoodles</h1>
         ${this.notice ? `<p class="gain">${escapeHtml(this.notice)}</p>` : ""}
         ${this.message ? `<p class="warning-text">${escapeHtml(this.message)}</p>` : ""}
         ${body}

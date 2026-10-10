@@ -1,10 +1,10 @@
-# Dungeon Crawler JS
+# DungeonsAndDoodles
 
 A top-down 2D dungeon crawler RPG proof of concept in vanilla JavaScript, HTML, and CSS. No framework and no build step. Sign in to keep your saves in the cloud (Supabase), or play without an account and keep them in your browser's `localStorage`.
 
 ## ▶ Play it
 
-**https://zachalot.github.io/DungeonCrawlerJS/**
+**https://zachalot.github.io/DungeonsAndDOodles/**
 
 That's the latest `main`, deployed by GitHub Pages about a minute after each merge. If you just merged and don't see the change, wait a minute and hard-refresh (Ctrl+Shift+R / Cmd+Shift+R).
 
