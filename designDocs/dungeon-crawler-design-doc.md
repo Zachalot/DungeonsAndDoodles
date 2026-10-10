@@ -1,4 +1,4 @@
-# Dungeon Crawler RPG — Design Doc (POC)
+# DungeonsAndDoodles — Design Doc (POC)
 
 > Status: Draft v0.2 · Platform: Browser (HTML / CSS / vanilla JS) · Persistence: `localStorage`, plus accounts and cloud saves from M8 (see `migration-to-persistent-storage.md`)
 
